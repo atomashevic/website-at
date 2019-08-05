@@ -6,7 +6,7 @@ name: Aleksandar Tomašević
 authors:
 - admin
 
-# Is this the primary user of the site?
+# Is this the primry user of the site?
 superuser: true
 
 # Role/position
@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Network analysis and graphical models
+- Network analysis
+- Graphical models
 - Bayesian statistics
 - Electoral behavior
 - Attitude networks
