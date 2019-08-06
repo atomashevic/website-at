@@ -56,6 +56,12 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Aleksandar_Tomasevic
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/6pcjb/  
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4863-6051
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -75,4 +81,8 @@ email: "atomashevic@ff.uns.ac.rs"
 #- Visitors
 ---
 
-Aleksandar Tomaševič is a social scientist, currently working as a teaching assistant at University of Novi Sad, [Faculty of Philosophy](http://ff.uns.ac.rs/). He completed his PhD in 2019. His research interests are cetered around apllying and deloping statistical and network methods in social sciences (sociology, psychology, demography, political science). Currently, his research is focused on social attitude networks and quantitative electoral studies, as well as taking part in developing large-scale cross-country survey infrastructure in Serbia as a part of national [Europan Social Survey](https://www.europeansocialsurvey.org/) team.
+Aleksandar Tomašević is a social scientist, currently working as a teaching assistant at University of Novi Sad, [Faculty of Philosophy](http://ff.uns.ac.rs/). He completed his PhD in 2019. His research interests are centered around applying and developing statistical and network methods in social sciences (sociology, psychology, demography, political science). 
+
+Currently, his research is focused on social attitude networks and quantitative electoral studies, as well as taking part in developing large-scale cross-country survey infrastructure in Serbia as a part of national [European Social Survey](https://www.europeansocialsurvey.org/) team.
+
+This web page serves as a hub linking different documents, data and code which will be posted on OSF, GitHub and ResearchGate. Blog is currently under development and it will be primarily focused on network analysis and graphical modeling tutorials, as well as various #Rstats projects (e.g. Shiny app development). 
