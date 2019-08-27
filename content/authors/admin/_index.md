@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Social scientist working at University of Novi Sad, Faculty of Philosophy. Member of Serbian national ESS team.
 
 interests:
 - Network analysis
