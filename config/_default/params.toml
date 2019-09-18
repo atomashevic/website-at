@@ -63,8 +63,8 @@ phone = ""
 address = "Office 335, Dr Zorana Đinđića 2, 21000 Novi Sad, Republic of Serbia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Thursday 14:00 to 15:00<br>
+                  Friday 14:00 to 15:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

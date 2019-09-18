@@ -51,4 +51,16 @@ In this example, we show how to access data for one country, for specific round 
 data <- import_country("Slovenia", 8)
 ```
 
+ESS raw data includes codes for missing values stored inside the variables. At this point, R will read these values as non-missing. Following code, based on a procedure from the *essurvey* package fixes issues with those variable codes.
+
+```r
+data <- recode_missings(data)
+```
+
+Using *RStudio* or any other R GUI, it's possible to explore the variable list of *data* object which now contains properly coded round 8 data for Slovenia.
+
+hhmmb
+
+eisced
+
 <iframe src="https://atomasevic.shinyapps.io/essence-shiny/" style="border:none;width:1000px;height:800px;"></iframe>
