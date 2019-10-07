@@ -5,7 +5,7 @@ summary: This page demonstrates some of the features which will be contained in 
 authors:
 - admin
 featured: false
-draft: false
+draft: true
 
 
 # Projects (optional).
