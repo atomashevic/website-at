@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Teaching Assistant
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,8 @@ organizations:
 bio: Social scientist working at University of Novi Sad, Faculty of Philosophy. Member of Serbian national ESS team.
 
 interests:
-- Network analysis
+- Network science
 - Graphical models
-- Bayesian statistics
-- Electoral behavior
 - Attitude networks
 
 education:
@@ -81,8 +79,8 @@ email: "atomashevic@ff.uns.ac.rs"
 #- Visitors
 ---
 
-Aleksandar Tomašević is a social scientist, currently working as a teaching assistant at University of Novi Sad, [Faculty of Philosophy](http://ff.uns.ac.rs/). He completed his PhD in 2019. His research interests are centered around applying and developing statistical and network methods in social sciences (sociology, psychology, demography, political science). 
+Aleksandar Tomašević is a social scientist, currently working as an Assistant Professor at University of Novi Sad, [Faculty of Philosophy](http://ff.uns.ac.rs/). He completed his PhD in 2019. His research interests are centered around applying and developing statistical and network science methods in social sciences (sociology, psychology, demography, political science). 
 
-Currently, his research is focused on social attitude networks and quantitative electoral studies, as well as taking part in developing large-scale cross-country survey infrastructure in Serbia as a part of national [European Social Survey](https://www.europeansocialsurvey.org/) team.
+Currently, his research is focused on social attitude/belief networks, applied network science methods, as well as taking part in developing large-scale cross-country survey infrastructure in Serbia as a part of national [European Social Survey](https://www.europeansocialsurvey.org/) team.
 
-This web page serves as a hub linking different documents, data and code which will be posted on OSF, GitHub and ResearchGate. Blog is currently under development and it will be primarily focused on network analysis and graphical modeling tutorials, as well as various #Rstats projects (e.g. Shiny app development). 
+This web page serves as a hub linking different documents, data and code which will be posted on OSF, GitHub and ResearchGate.
