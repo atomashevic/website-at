@@ -1,7 +1,7 @@
 ---
 title: "Aggressiveness in the HEXACO personality model"
 date: 2018-01-01
-publishDate: 2019-08-05T13:16:47.492415Z
+publishDate: 2021-01-08T15:26:08.025827Z
 authors: ["Valentina Sokolovska", "Bojana Dinić", "Aleksandar Tomašević"]
 publication_types: ["2"]
 abstract: ""
